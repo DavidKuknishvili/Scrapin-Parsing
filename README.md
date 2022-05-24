@@ -13,7 +13,7 @@ GE
 
 ## __USED RESOURCES__ 
 
-- SITE: [MTAVARI.TV]([https://www.tvmaze.com/api](https://mtavari.tv/news/archive?page=1))
+- SITE: [MTAVARI.TV] (https://mtavari.tv/news/archive?page=1)
 - CSV
 - BS4 MODULE
 - REQUESTS MODULE
